@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\back_plants\\Greenhouse\\wwwroot\\data\\CoffeeQuestions.json",
+      "PackagePath": "staticwebassets\\data\\CoffeeQuestions.json"
+    },
+    {
+      "Id": "D:\\back_plants\\Greenhouse\\wwwroot\\uploads\\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Greenhouse.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Greenhouse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Greenhouse.props",
+      "PackagePath": "build\\Greenhouse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Greenhouse.props",
+      "PackagePath": "buildMultiTargeting\\Greenhouse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Greenhouse.props",
+      "PackagePath": "buildTransitive\\Greenhouse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

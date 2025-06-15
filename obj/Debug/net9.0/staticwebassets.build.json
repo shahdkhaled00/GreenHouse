@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "Hash": "gEufRL794eXOX32YtkXBEsaWoql4OPN6GXJBsCf3yaM=",
+  "Source": "Greenhouse",
+  "BasePath": "_content/Greenhouse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Greenhouse\\wwwroot",
+      "Source": "Greenhouse",
+      "ContentRoot": "D:\\back_plants\\Greenhouse\\wwwroot\\",
+      "BasePath": "_content/Greenhouse",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\back_plants\\Greenhouse\\obj\\Debug\\net9.0\\compressed\\n36k7djnyu-1eqxj5q6ml.gz",
+      "SourceId": "Greenhouse",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\back_plants\\Greenhouse\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Greenhouse",
+      "RelativePath": "data/CoffeeQuestions#[.{fingerprint=1eqxj5q6ml}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\back_plants\\Greenhouse\\wwwroot\\data\\CoffeeQuestions.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "eiwvahbhca",
+      "Integrity": "qiuopyaHEhi+T5ajCQylingPrCyrsg/YSe3BeNiym3g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\back_plants\\Greenhouse\\wwwroot\\data\\CoffeeQuestions.json"
+    },
+    {
+      "Identity": "D:\\back_plants\\Greenhouse\\wwwroot\\data\\CoffeeQuestions.json",
+      "SourceId": "Greenhouse",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\back_plants\\Greenhouse\\wwwroot\\",
+      "BasePath": "_content/Greenhouse",
+      "RelativePath": "data/CoffeeQuestions#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1eqxj5q6ml",
+      "Integrity": "2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\CoffeeQuestions.json"
+    },
+    {
+      "Identity": "D:\\back_plants\\Greenhouse\\wwwroot\\uploads\\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg",
+      "SourceId": "Greenhouse",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\back_plants\\Greenhouse\\wwwroot\\",
+      "BasePath": "_content/Greenhouse",
+      "RelativePath": "uploads/WhatsApp Image 2025-04-25 at 11.36.26 PM#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u4pihx8qw7",
+      "Integrity": "QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "data/CoffeeQuestions.1eqxj5q6ml.json",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\obj\\Debug\\net9.0\\compressed\\n36k7djnyu-1eqxj5q6ml.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002109704641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qiuopyaHEhi+T5ajCQylingPrCyrsg/YSe3BeNiym3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 11:15:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1eqxj5q6ml"
+        },
+        {
+          "Name": "label",
+          "Value": "data/CoffeeQuestions.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw="
+        }
+      ]
+    },
+    {
+      "Route": "data/CoffeeQuestions.1eqxj5q6ml.json",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\wwwroot\\data\\CoffeeQuestions.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 11:15:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1eqxj5q6ml"
+        },
+        {
+          "Name": "label",
+          "Value": "data/CoffeeQuestions.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw="
+        }
+      ]
+    },
+    {
+      "Route": "data/CoffeeQuestions.1eqxj5q6ml.json.gz",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\obj\\Debug\\net9.0\\compressed\\n36k7djnyu-1eqxj5q6ml.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qiuopyaHEhi+T5ajCQylingPrCyrsg/YSe3BeNiym3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 11:15:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1eqxj5q6ml"
+        },
+        {
+          "Name": "label",
+          "Value": "data/CoffeeQuestions.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qiuopyaHEhi+T5ajCQylingPrCyrsg/YSe3BeNiym3g="
+        }
+      ]
+    },
+    {
+      "Route": "data/CoffeeQuestions.json",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\obj\\Debug\\net9.0\\compressed\\n36k7djnyu-1eqxj5q6ml.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002109704641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qiuopyaHEhi+T5ajCQylingPrCyrsg/YSe3BeNiym3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 11:15:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw="
+        }
+      ]
+    },
+    {
+      "Route": "data/CoffeeQuestions.json",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\wwwroot\\data\\CoffeeQuestions.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 11:15:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw="
+        }
+      ]
+    },
+    {
+      "Route": "data/CoffeeQuestions.json.gz",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\obj\\Debug\\net9.0\\compressed\\n36k7djnyu-1eqxj5q6ml.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qiuopyaHEhi+T5ajCQylingPrCyrsg/YSe3BeNiym3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 11:15:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qiuopyaHEhi+T5ajCQylingPrCyrsg/YSe3BeNiym3g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\wwwroot\\uploads\\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 09:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/WhatsApp Image 2025-04-25 at 11.36.26 PM.u4pihx8qw7.jpeg",
+      "AssetFile": "D:\\back_plants\\Greenhouse\\wwwroot\\uploads\\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 09:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u4pihx8qw7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8="
+        }
+      ]
+    }
+  ]
+}

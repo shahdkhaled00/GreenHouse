@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Greenhouse/data/CoffeeQuestions.1eqxj5q6ml.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\CoffeeQuestions.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1eqxj5q6ml"},{"Name":"integrity","Value":"sha256-2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw="},{"Name":"label","Value":"_content/Greenhouse/data/CoffeeQuestions.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1076"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 11:15:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Greenhouse/data/CoffeeQuestions.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\CoffeeQuestions.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1076"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222UqLbcdA7NJMcPrDh01ueyiyqXzqHPk1cBnb3HaeXxw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 11:15:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Greenhouse/uploads/WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"52231"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 09:17:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Greenhouse/uploads/WhatsApp Image 2025-04-25 at 11.36.26 PM.u4pihx8qw7.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u4pihx8qw7"},{"Name":"integrity","Value":"sha256-QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8="},{"Name":"label","Value":"_content/Greenhouse/uploads/WhatsApp Image 2025-04-25 at 11.36.26 PM.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52231"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QtuoflvpTTj2zmR9PlY7F0BxAPSHwmpLSvYaRm9t6i8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 09:17:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
